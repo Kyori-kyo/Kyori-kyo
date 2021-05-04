@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Kyori-kyo
+- 👀 I’m interested in learning
+- 🌱 I’m currently learning javascript
+- 💞️ I’m looking to collaborate on web security like a white hat.
+- 📫 How to reach me: @kyori_greymane
