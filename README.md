@@ -1,3 +1,20 @@
-<h2> Welcome </h2>
-Hello! I'm Rick 
-<br>I'm new on programming and I really appreciate any help 
+<header>
+  <h1> Welcome </h1>
+</header>
+
+<div> 
+  <h3> Hello, I'm Richard! <br><br> I'm trying to improve myself everyday and I appreciate any help<h3>
+  
+  <ol>
+    <il></il>
+    <il></il>
+    <il></il>
+    <il></il>
+    <il></il>
+  </ol>
+    
+</div>
+  
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyori-kyo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
