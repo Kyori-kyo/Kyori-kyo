@@ -14,6 +14,12 @@
   </ol>
     
 </div>
+    
+<script>
+  func ablublue = {
+    window.alert("aaaaa");
+  }
+</script>
   
 <br>
 
