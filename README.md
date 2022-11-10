@@ -1,11 +1,5 @@
 <header>
   <h1> Welcome </h1>
-  
-  <script>
-  func ablublue = {
-    window.alert("aaaaa");
-  }
-</script>
 </header>
 
 <div> 
