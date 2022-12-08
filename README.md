@@ -3,7 +3,15 @@
 </header>
 
 <div> 
-  <h3> Hello, I'm Richard! <br><br> I'm trying to improve myself everyday and I appreciate any help<h3>
+  <h3> Hello, I'm Richard! <br><br>
+    I work as a fullstack developer, setting Salesforce CRMs enviroments and bulding components for companies.
+  <h3>
+  
+  <h3>My actual goas are:</h3>
+    <ol>
+      <li>learn Node.Js and start building userfull APIs.</li>
+      <li>learn some data language like R or Python and develop an AI</li>
+    </ol>
     
 <nav>
   <a href="https://www.linkedin.com/in/richardlucascm/" target="_blank">
