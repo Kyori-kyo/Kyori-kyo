@@ -9,8 +9,8 @@
   
   <h3>My actual goas are:</h3>
     <ol>
-      <li>learn Node.Js and start building userfull APIs.</li>
-      <li>learn some data language like R or Python and develop an AI</li>
+      <li>learn the how to apply neural networks </li>
+      <li>learn rust</li>
     </ol>
     
 <nav>
