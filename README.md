@@ -1,6 +1,6 @@
 # 💫 About Me:
-poggers
-
+Hello! I'm a austic brazilian Software engineer
+I love my job and my dream is to become someone remarkable in the field
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Rick_Greymane) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/richardlucascm) 
